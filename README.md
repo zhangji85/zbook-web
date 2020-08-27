@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+- 本项目为毕业设计《基于智能阅读模型的电子书交互阅读软件设计与实现》网页端项目
+- 此项目使用vue.js + ElementUI 进行开发
+- 配套后端项目为zbook-admin
+
 ## Build Setup
 
 ``` bash
